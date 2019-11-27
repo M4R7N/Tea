@@ -46,6 +46,12 @@ body {
 	padding: inherit;
 	padding-bottom: 25px;
   }
+  .img-left {
+	  width: 100%;
+  }
+  .img-right {
+	  width: 100%;
+  }
 }
 @media only screen and (min-width: 960px) {
 	#distribution {
